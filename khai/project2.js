@@ -12,23 +12,23 @@ document.addEventListener("DOMContentLoaded", () => {
   </div>
   <div class="product-grid">
     <div id="soccer-clothes" class="product">
-        <img src="/khai/images/onana.jpg" alt="shop 1" />
+        <img src="https://photo.znews.vn/w660/Uploaded/spluaaa/2024_04_05/2024_manchester_uniteds_antony_reacts_891680632.jpg" alt="shop 1" />
         <h3>Trần Nhật Quân</h3>
         <h3>Quần Áo Thể Thao</h3>
     </div>
     <div id="soccer-shoes" class="product">
-        <img src="/khai/images/maguire.jpg" alt="shop 2" />
+        <img src="https://cdn.tuoitre.vn/thumb_w/480/471584752817336320/2023/12/7/190ec53b-bcaa-4a99-9b9f-4db695901c89-17019224659581173761427.jpg" alt="shop 2" />
         <h3></h3>
         <h3>Phạm Quang Thắng</h3>
         <h3>Giày Thể Thao</h3>
     </div>
     <div id="soccer-a" class="product">
-        <img src="/khai/images/garnacho.jpg" alt="shop 3" />
+        <img src="https://image.anninhthudo.vn/w1000/Uploaded/2024/wopkplw/2023_03_28/alejandro-garnacho-4503-4487.jpg" alt="shop 3" />
         <h3>Lê Tuấn Anh</h3>
         <h3>Phụ Kiện Thể Thao</h3>
     </div>
     <div id="soccer-service" class="product" >
-        <img src="/khai/images/antony-9474.jpg.webp" alt="shop 4" />
+        <img src="https://assets.goal.com/images/v3/bltd600d19d29418972/GettyImages-1814952270.jpg?auto=webp&format=pjpg&width=3840&quality=60" alt="shop 4" />
         <h3>Phạm Như Khải</h3>
         <h3>Dịch Vụ Sân Bóng</h3>
     </div>
